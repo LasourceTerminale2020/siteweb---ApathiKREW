@@ -1,9 +1,9 @@
 # siteweb
 Projet:
 Graphe d'une fonction du second degré
-réalisé sur un site web dynamique, hébergeur PythonanyWhere
+réalisé sur un site web dynamique, hébergeur PythonAnyWhere
 
-Chaque contributeur développe sur son compte PythonanyWhere
+Chaque contributeur développe sur son compte PythonAnyWhere
 puis git "push" sur Github.
 
 Enfin, le contenu du site est rechargé sur le site central,
