@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}" </head>
+
+  <body background="{{url_for('static', filename='lycee_la_source_light.jpg')}}" />
+  <h1> {{ message_bienvenue }} </h1>
+
+  <h5>Grapheur pour fonctions du second degré</h5>
+  <!-- <h4><em><strong>f(x) = ax² + bx +c</strong></em></h4> -->
+  <!-- <p> &nbsp;</p>  -->
+  <h3>choix des constantes a=2, b=3 et c=-10   soit:</h3>
+  <h3> {{ legend }}</h3>
+
+  <p> &nbsp;</p>
+
+  <h2><a href="{{ url_for('suite') }}"> dessiner le graphe de la fonction </a></h2>
+  </body>
+</html>
