@@ -11,7 +11,7 @@ Enfin, le contenu du site est rechargé sur le site central, résultat des sites
 # grapheur_v1
 VERSION 1 : dans un premier temps (version 1) les constantes a, b et c sont fixées: f(x) = 3x² + 2x -10
 
-(les calculs sont fait offline sous excel puis incorporés dans les scripts Python)
+(les calculs sont fait à part sous excel puis incorporés dans les scripts Python)
 
 Le contenu du site est envoyé sur Github dans un projet /grapheur à l'adresse https://github.com/
 
