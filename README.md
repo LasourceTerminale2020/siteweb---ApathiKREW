@@ -9,23 +9,20 @@ Enfin, le contenu du site est rechargé sur le site central, résultat des sites
 
 
 # grapheur_v1
-VERSION 1 : dans un premier temps (version 1) les constantes a, b et c sont fixées: f(x) = 3x² + 2x -10
 
+Dans un premier temps (version 1) les constantes a, b et c sont fixées: f(x) = 3x² + 2x -10
 (les calculs sont fait à part sous excel puis incorporés dans les scripts Python)
-
-Le contenu du site est envoyé sur Github dans un projet /grapheur à l'adresse https://github.com/
-
 pour la verson 1 l'adresse est : https://arnew.pythonanywhere.com
 
 
+# grapheur_v3
+
+Voir le repository : Les calculs sont fait par le site, 2 fonctions prédéfinies sont proposées
+
+https://github.com/elarneww/grapheur_v3
+
 # grapheur_v4
-VERSION 3 : la page d'accueil "home.html" ne contient contient de champs de saisie pour les constantes a, b et c.
-2 fonctions sont proposées :
-f(x) = 3x² + 2x -10    et    f(x) = -3x² -2x +10
 
-Les 3 constantes a, b et c sont envoyées par l'URL qui déclenche la fonction "suite()"
-decorateur de la "page_1.html" qui affiche le graphe par Charts.min.js
+Voir le repository : https://github.com/elarneww/grapheur_v4
 
-Les listes correspondantes sont calculées (pour le moment "en dur") sont envoyées sur la page "page_1.html"
-
-pour la version 3 l'adresse est : https://begin.pythonanywhere.com/
+pour la version 4 l'adresse du sit Web est : https://isn2src.pythonanywhere.com
