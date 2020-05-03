@@ -15,11 +15,13 @@ pour la verson 1 l'adresse est : https://arnew.pythonanywhere.com
 
 ## grapheur_v3
 
-Voir le repository : Les calculs sont fait par le site, 2 fonctions prédéfinies sont proposées
+Les calculs sont fait par le site, 2 fonctions prédéfinies sont proposées
 
-https://github.com/elarneww/grapheur_v3
+Voir le repository : https://github.com/elarneww/grapheur_v3
 
 ## grapheur_v4
+
+Les constantes a, b et c peuvent être saisies par un formulaire, puis affichées.
 
 Voir le repository : https://github.com/elarneww/grapheur_v4
 
