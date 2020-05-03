@@ -1,4 +1,4 @@
-# Projet: Site web dynamique
+# Projet - Site web dynamique : Grapheur
 
 
 Graphe d'une fonction du second degré réalisé sur un site web dynamique, hébergeur PythonanyWhere
