@@ -19,7 +19,7 @@ Les calculs sont fait par le site, 2 fonctions prédéfinies sont proposées
 
 Voir le repository : https://github.com/elarneww/grapheur_v3
 
-## grapheur_v4
+## grapheur_v4 - version finale
 
 Les constantes a, b et c peuvent être saisies par un formulaire, puis affichées.
 
