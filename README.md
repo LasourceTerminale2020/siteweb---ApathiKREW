@@ -18,7 +18,7 @@ Le contenu du site est envoyé sur Github dans un projet /grapheur à l'adresse 
 pour la verson 1 l'adresse est : https://arnew.pythonanywhere.com
 
 
-# grapheur_v3
+# grapheur_v4
 VERSION 3 : la page d'accueil "home.html" ne contient contient de champs de saisie pour les constantes a, b et c.
 2 fonctions sont proposées :
 f(x) = 3x² + 2x -10    et    f(x) = -3x² -2x +10
