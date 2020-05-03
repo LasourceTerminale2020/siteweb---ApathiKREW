@@ -3,9 +3,7 @@
 
 Projet: Graphe d'une fonction du second degré réalisé sur un site web dynamique, hébergeur PythonanyWhere
 
-Chaque contributeur développe sur son compte PythonanyWhere puis git "push" sur Github.
-
-Enfin, le contenu du site est rechargé sur le site central, résultat des sites PythonAnyWhere de developpement.
+![grapheur](https://user-images.githubusercontent.com/55845737/80922241-01919280-8d7c-11ea-9f94-af22c6e55131.png)
 
 
 ## grapheur_v1
