@@ -22,7 +22,7 @@ Voir le repository : https://github.com/elarneww/grapheur_v3
 
 Les constantes a, b et c peuvent être saisies à l'aide un formulaire, puis affichées.
 
-Voir le repository : https://github.com/elarneww/Documentation-Grapheur
+Voir le repository : https://github.com/elarneww/grapheur_v4
 
 pour la version 4 l'adresse du site Web est : https://isn2src.pythonanywhere.com
 
